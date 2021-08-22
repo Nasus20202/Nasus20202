@@ -35,5 +35,5 @@ Git and Linux<br>
 <h4>Hobbies</h4>
 I love programming and building computers. I am also a gamer and a member of mechanical keyboards community.<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasus20202&show_icons=true&locale=en&layout=compact" alt="nasus20202" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nasus20202&show_icons=true&locale=en" alt="nasus20202" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasus20202&show_icons=true&locale=en&layout=compact" alt="nasus20202" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasus20202&show_icons=true&locale=en" alt="nasus20202" /></p>
