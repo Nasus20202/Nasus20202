@@ -36,5 +36,5 @@ Git and Linux<br>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   
 <h4>Hobbies</h4>
-I love programming and building computers. I am also a gamer and a member of mechanical keyboards community. I love listening to music. My favourite artists is Billie Eilish.<br>
+I love programming and building computers. I am also a gamer and a member of mechanical keyboards community. I love listening to music. My favourite artist is Billie Eilish.<br>
 
