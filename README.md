@@ -31,7 +31,9 @@ Git and Linux<br>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   
 <h4>Hobbies</h4>
-I love programming and building computers. I am also a gamer and a member of mechanical keyboards community.<br>
+I love programming and building computers. I am also a gamer and a member of mechanical keyboards community. I love listening to music. My favourite artists is Billie Eilish.<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasus20202&show_icons=true&locale=en&layout=compact" alt="nasus20202" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasus20202&show_icons=true&locale=en" alt="nasus20202" /></p>
+<p><img align="center" width="350vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasus20202&show_icons=true&locale=en&layout=compact" alt="languages" />
+<img align="center" width="450vw" src="https://github-readme-stats.vercel.app/api?username=nasus20202&show_icons=true&locale=en" alt="stats" />
+<img align="center" width="200vw" src="https://spotify-recently-played-readme.vercel.app/api?user=krzysiu20202&width=300&unique=1" alt="spotify" />
+</p>
