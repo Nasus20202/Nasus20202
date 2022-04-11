@@ -29,7 +29,7 @@ I mean Boostrap 😄 I have tried Svelte but I am not good at it. I know basic H
 
 <h4>Other</h4>
  
-<img align="right" float="right" width="25%" src="https://spotify-recently-played-readme.vercel.app/api?user=krzysiu20202&width=300&unique=1" alt="spotify" />
+<img align="right" float="right" width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=krzysiu20202&width=300&unique=1" alt="spotify" />
 I am familiar with both basic git and Linux. I have also played with Arduino a bit.<br>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
