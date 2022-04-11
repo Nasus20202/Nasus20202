@@ -37,5 +37,5 @@ Git and Linux<br>
   
 <h4>Hobbies</h4>
 <p>
-I love programming and building computers. I am also a gamer and a member of mechanical keyboards community. I love listening to music. My favourite artist is Billie Eilish. I also like Taylor Swift's <img height="16px" src="https://swiftpack.co/images/logo.png" alt="swift"/> songs a lot.</p>
+I love programming and building computers. I am also a gamer and a member of mechanical keyboards community. I love listening to music. My favourite artist is Billie Eilish. I also like Taylor Swift's <img height="15px" src="https://swiftpack.co/images/logo.png" alt="swift"/> songs a lot.</p>
 
