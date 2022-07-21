@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Nasus</h1>
 <h3 align="center">Senior Scratch Developer 🐱</h3>
-<h3 align="center"><a href="https://knasuta.me/" target="_blank">Portfolio: knasuta.me</h3>
+<h3 align="center"><a href="https://knasuta.me/" target="_blank">Portfolio: knasuta.me</a></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=nasus20202&label=Profile%20views&color=20b994&style=flat" alt="nasus20202" />
 
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasus20202&show_icons=true&locale=en&layout=compact" alt="languages" />
-<h4>Programming launguages</h4>
-C# is my favourite one. I really like its syntax and usage. I use it for WPF ans ASP.NET Core for example. I use C++ at school. Python is my first programming language. I really like to use it for small projects. I have also basic familiarity with JavaScript/Node.js, Java and C.<br>
+<h4>Programming languages</h4>
+C# is my favorite one. I really like its syntax and usage. I use it for WPF and ASP.NET Core for example. I use C++ at school. Python is my first programming language. I really like to use it for small projects. I have also basic familiarity with JavaScript/Node.js, Java and C.<br>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -15,7 +15,7 @@ C# is my favourite one. I really like its syntax and usage. I use it for WPF ans
 
 
 <h4>Backend skills</h4>
-The framework that I use the most is ASP.NET Core, but I have also tried Django for smaller projects. For databases I mostly use ORMs such as Entity Framework Core, but I know some SQL. I like MySQL database for extended projects and SQLite for smaller programs.<br>
+The framework that I use the most is ASP.NET Core, but I have also tried Django for smaller projects. For databases, I mostly use ORMs such as Entity Framework Core, but I know some SQL. I like MySQL database for extended projects and SQLite for smaller programs.<br>
 <img align="right" float="right" src="https://github-readme-stats.vercel.app/api?username=nasus20202&show_icons=true&locale=en" alt="stats" />
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -23,11 +23,12 @@ The framework that I use the most is ASP.NET Core, but I have also tried Django 
 
 
 <h4>Frontend</h4>
-I mean Boostrap 😄 I have tried Svelte but I am not good at it. I know basic HTML, CSS and JavaScript.<br>
+I have some familiarity with React framework. I used it to create <a href="https://knasuta.me/" target="_blank">my website.</a> What's more, I know how to use HTML, CSS, JS and Bootstrap.<br>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <h4>Other</h4>
  
@@ -39,7 +40,7 @@ I am familiar with both basic git and Linux. I have also played with Arduino a b
   
 <h4>Hobbies</h4>
 
-I love programming and building computers. I am also a gamer and a member of mechanical keyboards community. I love listening to music. My favourite artist is Billie Eilish. I also like Taylor Swift's <img height="15px" src="https://swiftpack.co/images/logo.png" alt="swift"/> songs a lot.
+I love programming and building computers. I am also a gamer and a member of the mechanical keyboards community. I love listening to music. My favorite artist is Billie Eilish. I also like Taylor Swift's <img height="15px" src="https://swiftpack.co/images/logo.png" alt="swift"/> songs a lot.
  
 <h4>Contact</h4>
 Email: <a herf="mailto:krzysztof.nasuta@wp.pl">krzysztof.nasuta@wp.pl</a>
