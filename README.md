@@ -41,7 +41,7 @@ I am familiar with both basic git and Linux. I have also played with Arduino a b
   
 <h4>Hobbies</h4>
 
-I love programming and building computers. I am also a gamer and a member of the mechanical keyboards community. I love listening to music. My favorite artists are BLACKPINK and Billie Eilish.
+I love programming and building computers. I am also a gamer and a member of the mechanical keyboards community. I love listening to music. My favorite artist is Billie Eilish.
  
 <h4>Contact</h4>
 Email: <a herf="mailto:krzysztof.nasuta@wp.pl">krzysztof.nasuta@wp.pl</a>
