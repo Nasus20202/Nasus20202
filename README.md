@@ -41,7 +41,7 @@ I am familiar with both basic git and Linux. I have also played with Arduino a b
   
 <h4>Hobbies</h4>
 
-I love programming and building computers. I am also a gamer and a member of the mechanical keyboards community. I love listening to music. My favorite artists are Billie Eilish, BLACKPINK and Taylor Swift.
+I love programming and building computers. I am also a gamer and a member of the mechanical keyboards community. I love listening to music. My favorite artists are Billie Eilish, BLACKPINK and Taylor Swift <img height="16px" src="https://developer.apple.com/swift/images/swift-og.png" alt="swift"/>.
  
 <h4>Contact</h4>
 Email: <a herf="mailto:krzysztof.nasuta@wp.pl">krzysztof.nasuta@wp.pl</a>
