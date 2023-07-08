@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nasus</h1>
 <h3 align="center">Senior Scratch Developer 🐱</h3>
-<h3 align="center"><a href="https://knasuta.me/" target="_blank">Portfolio: knasuta.me</a></h3>
+<h3 align="center"><a href="https://nasuta.dev/" target="_blank">Portfolio: nasuta.dev</a></h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=nasus20202&label=Profile%20views&color=20b994&style=flat" alt="nasus20202" />
 
 
