@@ -44,6 +44,6 @@ I am familiar with both basic git and Linux. I have also played with Arduino a b
 I love programming and building computers. I am also a gamer and a member of the mechanical keyboards community. I love listening to music.
 
 <h4>Contact</h4>
-Email: <a herf="mailto:krzysztof.nasuta@wp.pl">krzysztof.nasuta@wp.pl</a>
+Email: <a herf="mailto:krzysztof@nasuta.dev">krzysztof@nasuta.dev</a>
 Discord: Nasus#8143
 
