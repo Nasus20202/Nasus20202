@@ -45,5 +45,5 @@ I love programming and building computers. I am also a gamer and a member of the
 
 <h4>Contact</h4>
 Email: <a herf="mailto:krzysztof@nasuta.dev">krzysztof@nasuta.dev</a>
-Discord: Nasus#8143
+Discord: nasus.
 
