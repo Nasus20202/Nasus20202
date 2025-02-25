@@ -7,15 +7,19 @@
 
 Hi, my name is **Krzysztof Nasuta**, but everyone calls me **Nasus**! :wave:
 
-I am currently studying computer science and working at Dynatrace. I am interested in software development and DevOps practices.
+I am currently studying computer science and working at Dynatrace. I am interested in software development and DevOps practices. I especially enjoy working with Kubernetes.
 
 ### Technologies
 
 - .NET & ASP.NET Core
 - TypeScript & React
 - Python
+- Java
 - Docker & Kubernetes
+- Terraform & Ansible
 - Git & Linux
+
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&color=31A354&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/nasus20202)
 
 ## Contact
 
