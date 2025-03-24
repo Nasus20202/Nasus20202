@@ -1,6 +1,6 @@
 # Hi, I'm Krzysztof Nasuta!
 
-- Intern at [Dynatrace](https://www.dynatrace.com/) <img src="https://www.dynatrace.com/favicon.ico" width="16" />
+- Junior Software Engineer at [Dynatrace](https://www.dynatrace.com/) <img src="https://www.dynatrace.com/favicon.ico" width="16" />
 - Computer Science student at [Gdańsk University of Technology](https://pg.edu.pl/en/)
 
 ### About me
